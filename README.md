@@ -1,6 +1,6 @@
 # Calculadora IMC
 
-Uma aplicação web simples feita com **React** para calcular o IMC (Índice de Massa Corporal) e informar a classificação com base no resultado. 
+Uma aplicação web simples feita com **React** para calcular o IMC (Índice de Massa Corporal) e informar a classificação com base no resultado. A ideia foi retirada dos desafios do Codante.io (https://codante.io/mini-projetos/calculadora-de-imc-com-react).
 
 ## Preview
 
