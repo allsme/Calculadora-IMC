@@ -5,7 +5,7 @@ Uma aplicação web simples feita com **React** para calcular o IMC (Índice de 
 ## Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/allsme/Calculadora-IMC/refs/heads/main/Captura%20de%20tela%202025-03-24%20090812.png" width="600" alt="Preview da aplicação" />
+  <img src="https://raw.githubusercontent.com/allsme/Calculadora-IMC/refs/heads/main/Captura%20de%20tela%202025-03-24%20090812.png" width="300" alt="Preview da aplicação" />
 </p>
 
 ---
