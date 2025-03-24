@@ -1,16 +1,14 @@
 # Calculadora IMC
 
-# 🧮 Calculadora IMC
-
 Uma aplicação web simples feita com **React** para calcular o IMC (Índice de Massa Corporal) e informar a classificação com base no resultado.
 
-## 📸 Preview
+## Preview
 
-"C:\Users\Aline\Pictures\Screenshots\Captura de tela 2025-03-24 090812.png"
+
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 - React.js
 - Styled-components
@@ -19,7 +17,7 @@ Uma aplicação web simples feita com **React** para calcular o IMC (Índice de 
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Entrada de **peso (kg)** e **altura (m)**
 - Cálculo automático do IMC
@@ -29,7 +27,9 @@ Uma aplicação web simples feita com **React** para calcular o IMC (Índice de 
 
 ---
 
-## 🧠 Como calcular o IMC
+## Como calcular o IMC
 
 A fórmula usada é:
+
+IMC = Peso / (altura * altura)
 
