@@ -4,7 +4,7 @@ Uma aplicação web simples feita com **React** para calcular o IMC (Índice de 
 
 ## Preview
 
-![Preview da calculadora]()
+![Preview da calculadora](Captura de tela 2025-03-24 090812.png)
 
 ---
 
